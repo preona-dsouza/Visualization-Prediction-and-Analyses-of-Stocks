@@ -1,0 +1,19 @@
+@'
+dash
+streamlit
+plotly
+numpy
+pandas
+yfinance
+cachetools
+scikit-learn
+xgboost
+prophet
+matplotlib
+newsapi-python
+requests
+beautifulsoup4
+lxml
+tensorflow
+keras
+'@ | Set-Content -Path .\requirements.txt -Encoding utf8
